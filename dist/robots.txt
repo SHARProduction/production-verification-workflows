@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shar-production-open-tools.pages.dev/verification-workflows/sitemap.xml
